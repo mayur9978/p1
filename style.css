@@ -243,10 +243,10 @@ span {
 
 .vr_strip {
     position: absolute;
-    top: 18.6%;
+    top: 18.9%;
     left: 70%;
     background-color: #f54c82d8;
-    height: 1434px;
+    height: 1437px;
     width: 20%;
     display: flex;
     flex-direction: column;
