@@ -164,7 +164,7 @@ body {
 }
 
 #foot_1 {
-    height: 248px;
+    height: 240px;
     background-color: rgba(0, 0, 0, 0.521);
     width: 45%;
     display: flex;
@@ -176,7 +176,7 @@ body {
 #foot_2 {
     width: 55%;
     background-color: #6cafbdf0;
-    height: 248px;
+    height: 240px;
     display: flex;
     align-items: center;
     justify-content: center;
